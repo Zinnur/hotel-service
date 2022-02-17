@@ -7,3 +7,5 @@ Reservation
 
 RoomType
 
+RateCode
+
